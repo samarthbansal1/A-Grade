@@ -1,0 +1,19 @@
+{
+  "name": "gradeviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hackSB-main/gradeViewer/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "puppeteer": "^20.2.0",
+    "ws": "^8.13.0"
+  }
+}
